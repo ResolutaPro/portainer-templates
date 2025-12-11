@@ -11199,7 +11199,7 @@
           "description": "URL hostname for MinIO Console if any"
         }
       ],
-      "image": "minio/minio:latest",
+      "image": "minio/minio:RELEASE.2025-02-03T21-03-04Z-cpuv1",
       "logo": "https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/images/minio.png",
       "name": "minio",
       "platform": "linux",

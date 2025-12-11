@@ -328,7 +328,7 @@
       ],
       "platform": "linux",
       "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/minio.png",
-      "image": "quay.io/minio/minio:latest",
+      "image": "quay.io/minio/minio:RELEASE.2025-02-03T21-03-04Z-cpuv1",
       "ports": [
         "9000/tcp",
         "9001/tcp"
